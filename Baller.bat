@@ -1,0 +1,10 @@
+start https://www.youtube.com/watch?v=PNUnknCu26w
+start https://www.youtube.com/watch?v=PNUnknCu26w
+start https://www.youtube.com/watch?v=PNUnknCu26w
+start https://www.youtube.com/watch?v=PNUnknCu26w
+start https://www.youtube.com/watch?v=PNUnknCu26w
+"%TEMP%\booger (4).jpg"
+"%TEMP%\booger (4).jpg"
+"%TEMP%\booger (4).jpg"
+"%TEMP%\booger (4).jpg"
+"%TEMP%\booger (4).jpg"
